@@ -12,7 +12,7 @@ function check1() {
     if (b2 && b4 && b5 && b6 && !b1 && !b3 && !b7) {
         window.alert("Super!");
     } else {
-        window.alert("Sie haben einen fehler gemacht!");
+        window.alert("Sie haben einen Fehler gemacht!");
     }
 }
 
